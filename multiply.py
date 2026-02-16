@@ -1,5 +1,5 @@
-def sum(a,b):
+def multi(a,b):
     return a*b
 
-c= sum(5,5)
+c= multi(5,5)
 print(c)
